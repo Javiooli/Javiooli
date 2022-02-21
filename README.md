@@ -1,4 +1,4 @@
-- I'm Javiooli, an 18 years old IT Engineer student in Universitat de Barcelona.
+- I'm Javiooli, an 19 years old IT Engineer student in Universitat de Barcelona.
 - I'm interested in videogames but in a more technical way. What I enjoy when playing is the technicity more than the gameplay or graphics themselves.
 - Currently I'm at my first year, learning Java, Python and VDHL.
 - My goal is to end up researching and developing new hardware.
