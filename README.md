@@ -6,8 +6,5 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&layout=compact&theme=dark&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Javiooli&theme=dark&repo=convoychat" />
+  - <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&layout=compact&theme=dark&repo=github-readme-stats" />
 </a>
