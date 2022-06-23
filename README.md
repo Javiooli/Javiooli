@@ -5,6 +5,6 @@
 - My Instagram account is @Javiooli, as most of my other social medias.
 
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&layout=compact&repo=github-readme-stats" />
+</a>
