@@ -4,7 +4,4 @@
 - My goal is to end up researching and developing new hardware.
 - My Instagram account is @Javiooli, as most of my other social medias.
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&layout=compact&theme=dark&repo=github-readme-stats" />
-</a>
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&theme=dark&layout=compact)]
