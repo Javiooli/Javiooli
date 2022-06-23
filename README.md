@@ -4,4 +4,6 @@
 - My goal is to end up researching and developing new hardware.
 - My Instagram account is @Javiooli, as most of my other social medias.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
