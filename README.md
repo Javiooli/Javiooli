@@ -5,5 +5,5 @@
 - My Instagram account is @Javiooli, as most of my other social media.
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&theme=github_dark&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiooli&theme=github_dark&hide=hlsl&layout=compact)
 
